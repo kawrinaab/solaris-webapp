@@ -1,7 +1,4 @@
 # solaris-webapp
-That's great context. Since you're the owner, the README should be written from the perspective of the project/team rather than as a third-party description.
-
-Here's a stronger version of the opening:
 
 # Solaris ✨
 
